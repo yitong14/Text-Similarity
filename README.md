@@ -1,2 +1,2 @@
 # Text-Similarity
-study notes
+Some notes while study text similarity algorithm.
